@@ -5,7 +5,7 @@
 -->
 
 - 🌱 I’m currently learning React.Js & React-Native
-- 👯 I want to learn Node.Js & MongoDB after React and planning a career as a MERN developer.
+- ✨ I want to learn Node.Js & MongoDB after React and planning a career as a MERN developer.
 
 
 # 💻 Tech Stack:
