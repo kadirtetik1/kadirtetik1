@@ -4,7 +4,7 @@
 **kadirtetik1/kadirtetik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning React.Js & React-Native
+- 🌱 I’m currently learning React.Js & React-Native.
 - ✨ I want to learn Node.Js & MongoDB after React and planning a career as a MERN developer.
 
 
